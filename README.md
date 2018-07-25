@@ -30,7 +30,6 @@ Github : https://github.com/kyuob/
 
 ## Gluesys
 
-
 ### Role:
 Senior Software Developer, iOS Main Developer
  
@@ -55,7 +54,6 @@ http://gluesys.com/product-2/mobile-storage/?lang=en
  
 ## PM Studios
 
- 
 ### Role:
 Senior Software Developer, iOS Main Developer
  
@@ -81,7 +79,6 @@ https://itunes.apple.com/us/app/eftw/id1054299008
 
 ## Simplatform
 
- 
 ### Role:
 Senior Software Developer
  
@@ -99,7 +96,6 @@ iOS, Android, and Web client solution engine repair and maintenance
 
 ## Deoham Story
 
- 
 ### Role:
 Senior Software Developer
  
@@ -123,7 +119,6 @@ Development of LMS iPad and iPhone version for dealer education
  
 ## NCer
 
- 
 ### Role:
 Senior Software Developer, Core Framework Developer. [Hi Dokdo] App Main Developer.
  
@@ -140,14 +135,4 @@ Jira, Trello, BitBucket, SourceTree, Jenkins
 
 Internal Interactive Mobile App Books using Cocos2D-x(C++, iOS 6.0, 7.0 and Android NDK) for iOS Devices (mainly iPad), Android Tablets.
 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
  
