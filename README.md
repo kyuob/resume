@@ -70,8 +70,7 @@ Cocos2d-x game development
 
 https://itunes.apple.com/us/app/eftw/id1054299008
  
-
-
+ 
 ## Simplatform
 
 ### Role:
@@ -86,9 +85,8 @@ Objective-C, C ++, C#, Java, JavaScript
 Financial development(FinTech) paperless e-Form solution R&D
 
 iOS, Android, and Web client solution engine repair and maintenance
-
  
-
+ 
 ## Deoham Story
 
 ### Role:
@@ -110,9 +108,8 @@ Support for 9 languages
 HYUNDAI Auto Ever LMS project for car dealers
 
 Development of LMS iPad and iPhone version for dealer education
-
  
-
+ 
 ## NCer
 
 ### Role:
