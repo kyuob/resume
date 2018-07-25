@@ -5,11 +5,9 @@ Blog : https://ekyu.synology.me/wp/
 LinkedIn : https://www.linkedin.com/in/kyeongkyu-lee-9b4241a8/
 
 Github : https://github.com/kyuob/
-
-   
-
+ 
+ 
 ## 경력
-
 
 ### Gluesys
 - 2016/09 ~ now
@@ -25,9 +23,8 @@ Github : https://github.com/kyuob/
 
 ### NCer
 - 2012/11 ~ 2013/11
-
-
-
+ 
+ 
 ## Gluesys
 
 ### Role:
