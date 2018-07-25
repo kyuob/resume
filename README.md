@@ -6,7 +6,7 @@ LinkedIn : https://www.linkedin.com/in/kyeongkyu-lee-9b4241a8/
 
 Github : https://github.com/kyuob/
 
-
+   
 
 ## 경력
 
@@ -45,7 +45,6 @@ Router Storage device mobile App development
 
 KT GiGAeyes project - platform interworking function development (Linux)
 
- 
 ### iOS, Android, NVR, NAS
 
 http://gluesys.com/product-2/mobile-storage/?lang=en
