@@ -47,9 +47,8 @@ KT GiGAeyes project - platform interworking function development (Linux)
 
  
 ### iOS, Android, NVR, NAS
- 
+
 http://gluesys.com/product-2/mobile-storage/?lang=en
- 
  
  
 ## PM Studios
@@ -74,7 +73,7 @@ and
 Cocos2d-x game development
 
 https://itunes.apple.com/us/app/eftw/id1054299008
-
+ 
 
 
 ## Simplatform
@@ -92,7 +91,7 @@ Financial development(FinTech) paperless e-Form solution R&D
 
 iOS, Android, and Web client solution engine repair and maintenance
 
-
+ 
 
 ## Deoham Story
 
@@ -116,7 +115,7 @@ HYUNDAI Auto Ever LMS project for car dealers
 
 Development of LMS iPad and iPhone version for dealer education
 
-
+ 
 
 ## NCer
 
