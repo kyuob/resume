@@ -126,6 +126,8 @@ Jira, Trello, BitBucket, SourceTree, Jenkins
 
 [D is for Doodle], [Alphabeasties], [Stella is a Star], [Pass it on], [Do you know which ones will grow?]
 
+<img src="images/01.png" width="960"/>
+
 Internal Interactive Mobile App Books using Cocos2D-x(C++, iOS 6.0, 7.0 and Android NDK) for iOS Devices (mainly iPad), Android Tablets.
 
  
