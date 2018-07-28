@@ -64,6 +64,8 @@ Famous game items (LoL, CS, DoTA, Blizzard) betting Social App development
 
 iOS Main development
 
+<img src="images/06.png" width="960"/>
+
 and
 
 Cocos2d-x game development
@@ -104,12 +106,14 @@ Development of car dealer education app, dealer sales consultation and customer 
 
 Support for 9 languages
  
+<img src="images/04.png" width="960"/>
 
 HYUNDAI Auto Ever LMS project for car dealers
 
 Development of LMS iPad and iPhone version for dealer education
  
- 
+<img src="images/05.png" width="960"/>
+
 ## NCer
 
 ### Role:
@@ -128,6 +132,9 @@ Jira, Trello, BitBucket, SourceTree, Jenkins
 
 <img src="images/01.png" width="960"/>
 
+<img src="images/02.png" width="960"/>
+
 Internal Interactive Mobile App Books using Cocos2D-x(C++, iOS 6.0, 7.0 and Android NDK) for iOS Devices (mainly iPad), Android Tablets.
 
+<img src="images/03.png" width="960"/>
  
