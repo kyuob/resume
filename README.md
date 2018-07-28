@@ -105,7 +105,7 @@ HYUNDAI Auto Ever DH Genesis App Project
 Development of car dealer education app, dealer sales consultation and customer management catalog app
 
 Support for 9 languages
- 
+ 
 <img src="images/04.png" width="960"/>
 
 HYUNDAI Auto Ever LMS project for car dealers
