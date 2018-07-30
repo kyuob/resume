@@ -130,7 +130,7 @@ Agile Software Development Environment (weekly release)
 Jira, Trello, BitBucket, SourceTree, Jenkins
  
 ### Projects:
-5 CJ-Educations' interactive Educational Mobile Apps (app books) for kids using Cocos2D-x (C++, iOS 6.0, 7.0 and Adroid NDK) for iOS Devices (mainly iPad), and Android Tablets.
+CJ-Educations' interactive Educational Mobile Apps (app books) for kids using Cocos2D-x (C++, iOS 6.0, 7.0 and Adroid NDK) for iOS Devices (mainly iPad), and Android Tablets.
 
 [D is for Doodle], [Alphabeasties], [Stella is a Star], [Pass it on], [Do you know which ones will grow?]
 
