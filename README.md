@@ -87,6 +87,8 @@ Objective-C, C ++, C#, Java, JavaScript
 Financial development(FinTech) paperless e-Form solution R&D
 
 iOS, Android, and Web client solution engine repair and maintenance
+
+<img src="images/954974.jpg" width="960"/>
  
  
 ## Deoham Story
