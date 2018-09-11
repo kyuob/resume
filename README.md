@@ -38,9 +38,16 @@ Swift, Objective-C, JAVA, C++, C
 ### Projects:
 IP camera NVR (network video recorder) solution mobile App development
 
+<img src="images/10.png" width="960"/>
+
 Router Storage device mobile App development
 
+<img src="images/09.png" width="480"/>
+
 KT GiGAeyes project - platform interworking function development (Linux)
+
+<img src="images/11.png" width="960"/>
+<img src="images/12.png" width="960"/>
 
 ### iOS, Android, NVR, NAS
 
