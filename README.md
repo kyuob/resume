@@ -42,15 +42,16 @@ IP camera NVR (network video recorder) solution mobile App development
 
 Router Storage device mobile App development
 
+http://gluesys.com/product-2/mobile-storage/?lang=en
+
 <img src="images/09.png" width="480"/>
 
 KT GiGAeyes project - platform interworking function development (Linux)
 
 <img src="images/11.png" width="480"/> <img src="images/12.png" width="480"/>
 
-### iOS, Android, NVR, NAS
+### iOS, Android, NVR, NAS application development
 
-http://gluesys.com/product-2/mobile-storage/?lang=en
  
  
 ## PM Studios
