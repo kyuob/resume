@@ -73,11 +73,11 @@ iOS Main development
 
 <img src="images/06.png" width="960"/>
 
+https://itunes.apple.com/us/app/eftw/id1054299008
+
 and
 
 Cocos2d-x game development
-
-https://itunes.apple.com/us/app/eftw/id1054299008
  
  
 ## Simplatform
