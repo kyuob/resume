@@ -72,7 +72,6 @@ Famous game items (LoL, CS, DoTA, Blizzard) betting Social App development
 iOS Main development
 
 <img src="images/06.png" width="960"/>
-
 https://itunes.apple.com/us/app/eftw/id1054299008
 
 and
