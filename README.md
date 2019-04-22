@@ -38,6 +38,12 @@ Swift, Objective-C, JAVA, C++, C
 ### Projects:
 IP camera NVR (network video recorder) solution mobile App development
 
+<img src="images/13.png" width="960"/>
+
+<img src="images/14.png" width="960"/>
+
+<img src="images/15.png" width="960"/>
+
 <img src="images/10.png" width="960"/>
 
 Router Storage device mobile App development
