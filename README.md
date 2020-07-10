@@ -7,8 +7,11 @@ Github : https://github.com/kyuob/
  
 ## 경력
 
+### Dal.komm
+- 2019/07 ~ now
+
 ### Gluesys
-- 2016/09 ~ now
+- 2016/09 ~ 2019/06
 
 ### PM Studios
 - 2015/05 ~ 2016/08
@@ -21,8 +24,35 @@ Github : https://github.com/kyuob/
 
 ### NCer
 - 2012/11 ~ 2013/11
- 
+
+
+
+## Dal.komm
+
+### Role:
+Senior Software Developer, iOS Main Developer
  
+### Development Tools & Languages:
+Xcode, Mantis, Jira, Confluence, Git, Linux
+
+Swift, Objective-C, C++, C
+ 
+### Projects:
+b;eat Robot Coffee Order Service App development
+
+<img src="images/16.png" width="960"/>
+
+<img src="images/17.png" width="960"/>
+
+
+Dal.komm Coffee Order Service App development
+
+<img src="images/18.png" width="960"/>
+
+<img src="images/19.png" width="960"/>
+
+
+
 ## Gluesys
 
 ### Role:
