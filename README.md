@@ -1,7 +1,5 @@
 # resume
 
-Blog : https://ekyu.synology.me/wp/
-
 LinkedIn : https://www.linkedin.com/in/kyeongkyu-lee-9b4241a8/
 
 Github : https://github.com/kyuob/
