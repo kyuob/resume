@@ -7,7 +7,7 @@ Github : https://github.com/kyuob/
  
 ## 경력
 
-### Dal.komm
+### Dal.komm - beat corp
 - 2019/07 ~ now
 
 ### Gluesys
@@ -19,15 +19,10 @@ Github : https://github.com/kyuob/
 ### Simplatform
 - 2014/09 ~ 2015/04
 
-### Deoham Story
-- 2014/01 ~ 2014/08
-
-### NCer
-- 2012/11 ~ 2013/11
 
 
 
-## Dal.komm
+## Dal.komm - beat corp
 
 ### Role:
 Senior Software Developer, iOS Main Developer
