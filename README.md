@@ -19,7 +19,11 @@ Github : https://github.com/kyuob/
 ### Simplatform
 - 2014/09 ~ 2015/04
 
+### Deoham Story
+- 2014/01 ~ 2014/08
 
+### NCer
+- 2012/11 ~ 2013/11
 
 
 ## Dal.komm - beat corp
