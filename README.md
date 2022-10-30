@@ -98,19 +98,20 @@ Xcode, Mantis, Trello, BitBucket, SourceTree
 Objective-C, C++, C#
  
 ### Projects:
-Famous game items (LoL, CS, DoTA, Blizzard) betting Social App development
+유명 게임들 (LoL, CS, DoTA, Blizzard) 의 경기 결과 베팅 후
+얻은 포인트로 게임들 속의 아이템을 살 수 있는 모바일 앱 개발
 
-(Global launch, mainly North America)
+(한국 미출시, 북미 위주 글로벌 출시)
 
-iOS Main development
+iOS 모바일 앱 리드 개발
 
 <img src="images/06.png" width="960"/>
 
 https://itunes.apple.com/us/app/eftw/id1054299008
 
-and
+그 외
 
-Cocos2d-x game development
+Cocos2d-x 게임 개발 진행
  
  
 ## Simplatform
@@ -124,9 +125,9 @@ Xcode, Eclipse, Redmine, Jira, Git
 Objective-C, C ++, C#, Java, JavaScript
  
 ### Projects:
-Financial development(FinTech) paperless e-Form solution R&D
+금융권 전자문서 e-Form 솔루션 R&D
 
-iOS, Android, and Web client solution engine repair and maintenance
+iOS, Android, Web 용 솔루션 유지보수 및 개발
 
 <img src="images/07.png" width="960"/>
 
@@ -146,22 +147,23 @@ Objective-C, C ++, Java
 ### Projects:
 HYUNDAI Auto Ever DH Genesis App Project
 
-Development of car dealer education app, dealer sales consultation and customer management catalog app
+딜러들의 고객 관리 앱, 매장용 자동차 카달로그 앱
 
-Support for 9 languages
+글로벌 9개 언어 지원
  
 <img src="images/04.png" width="960"/>
 
-HYUNDAI Auto Ever LMS project for car dealers
+HYUNDAI Auto Ever 자동차 딜러들 교육용
 
-Development of LMS iPad and iPhone version for dealer education
+iPad 와 iPhone 앱 개발
  
 <img src="images/05.png" width="960"/>
 
 ## NCer
 
 ### Role:
-Senior Software Developer, Core Framework Developer. [Hi Dokdo] App Main Developer.
+Senior Software Developer, Core Framework Developer.
+[Hi Dokdo] App Main Developer.
  
 ### Team work:
 Agile Software Development Environment (weekly release)
@@ -170,7 +172,8 @@ Agile Software Development Environment (weekly release)
 Jira, Trello, BitBucket, SourceTree, Jenkins
  
 ### Projects:
-CJ-Educations' interactive Educational Mobile Apps (app books) for kids using Cocos2D-x (C++, iOS 6.0, 7.0 and Adroid NDK) for iOS Devices (mainly iPad), and Android Tablets.
+CJ-Educations 유아 교육용 인터렉티브 터치 게임 앱북 개발 
+Cocos2D-x 사용, iOS와 안드로이드용 패드 앱 개발
 
 [D is for Doodle], [Alphabeasties], [Stella is a Star], [Pass it on], [Do you know which ones will grow?]
 
@@ -178,7 +181,8 @@ CJ-Educations' interactive Educational Mobile Apps (app books) for kids using Co
 
 <img src="images/02.png" width="960"/>
 
-Internal Interactive Mobile App Books using Cocos2D-x(C++, iOS 6.0, 7.0 and Android NDK) for iOS Devices (mainly iPad), Android Tablets.
+역사 교육용 앱북 개발 
+Cocos2D-x 사용, iOS와 안드로이드용 패드 앱 개발
 
 <img src="images/03.png" width="960"/>
  
