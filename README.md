@@ -32,19 +32,19 @@ Github : https://github.com/kyuob/
 Senior Software Developer, iOS Main Developer
  
 ### Development Tools & Languages:
-Xcode, Mantis, Jira, Confluence, Git, Linux
+Xcode, Jira, Confluence, Git
 
-Swift, Objective-C, C++, C
+Swift, Objective-C
  
 ### Projects:
-b;eat Robot Coffee Order Service App development
+b;eat 로봇 커피 고객용 주문 모바일 앱 개발
 
 <img src="images/16.png" width="960"/>
 
 <img src="images/17.png" width="960"/>
 
 
-Dal.komm Coffee Order Service App development
+Dal.komm 커피 고객용 주문 모바일 앱 개발
 
 <img src="images/18.png" width="960"/>
 
@@ -63,7 +63,7 @@ Xcode, Android Studio, Mantis, Redmine, SVN, Git, Linux
 Swift, Objective-C, JAVA, C++, C
  
 ### Projects:
-IP camera NVR (network video recorder) solution mobile App development
+IP camera NVR (network video recorder) 솔루션 모바일 앱 개발
 
 <img src="images/13.png" width="960"/>
 
@@ -73,13 +73,13 @@ IP camera NVR (network video recorder) solution mobile App development
 
 <img src="images/10.png" width="960"/>
 
-Router Storage device mobile App development
+소형 스토리지 기기 관리용 모바일 앱 개발
 
 http://gluesys.com/product-2/mobile-storage/?lang=en
 
 <img src="images/09.png" width="480"/>
 
-KT GiGAeyes project - platform interworking function development (Linux)
+KT GiGAeyes 프로젝트 - 플랫폼 간 연동 기능 개발 (Linux)
 
 <img src="images/11.png" width="480"/> <img src="images/12.png" width="480"/>
 
