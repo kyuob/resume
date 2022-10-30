@@ -27,6 +27,8 @@ Github : https://github.com/kyuob/
 
 
 
+
+
 ## Dal.komm - beat corp
 
 ### Role:
