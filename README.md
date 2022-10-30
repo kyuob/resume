@@ -24,10 +24,8 @@ Github : https://github.com/kyuob/
 
 ### NCer
 - 2012/11 ~ 2013/11
-
-
-
-
+   
+   
 
 ## Dal.komm - beat corp
 
