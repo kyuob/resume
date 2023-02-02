@@ -28,23 +28,25 @@ Github : https://github.com/kyuob/
    
 ## Dal.komm - beat corp
 
-### Role:
+### 직무:
 Senior Software Developer, iOS Main Developer
  
-### Development Tools & Languages:
+### 사용 언어, 협업 툴:
 Xcode, Jira, Confluence, Git
 
 Swift, Objective-C
  
-### Projects:
-b;eat 로봇 커피 고객용 주문 모바일 앱 개발
+### 프로젝트:
+b;eat 로봇 카페 iOS 앱 개발 100% 관여 
+2020년 2.0 100% 네이티브 앱
+2022년 3.0 하이브리드 앱
 
 <img src="images/16.png" width="960"/>
 
 <img src="images/17.png" width="960"/>
 
 
-Dal.komm 커피 고객용 주문 모바일 앱 개발
+Dal.komm 카페 iOS 앱 개발 100% 관여
 
 <img src="images/18.png" width="960"/>
 
@@ -54,15 +56,15 @@ Dal.komm 커피 고객용 주문 모바일 앱 개발
 
 ## Gluesys
 
-### Role:
+### 직무:
 Senior Software Developer, iOS Main Developer
  
-### Development Tools & Languages:
+### 사용 언어, 협업 툴:
 Xcode, Android Studio, Mantis, Redmine, SVN, Git, Linux
 
 Swift, Objective-C, JAVA, C++, C
  
-### Projects:
+### 프로젝트:
 IP camera NVR (network video recorder) 솔루션 모바일 앱 개발
 
 <img src="images/13.png" width="960"/>
