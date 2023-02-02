@@ -38,7 +38,9 @@ Swift, Objective-C
  
 ### 프로젝트:
 b;eat 로봇 카페 iOS 앱 개발 100% 관여 
+
 2020년 2.0 100% 네이티브 앱
+
 2022년 3.0 하이브리드 앱
 
 <img src="images/16.png" height="380"/>   <img src="images/20.jpg" height="380"/>
