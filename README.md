@@ -91,15 +91,15 @@ KT GiGAeyes 프로젝트 - 플랫폼 간 연동 기능 개발 (Linux)
  
 ## PM Studios
 
-### Role:
+### 직무:
 Senior Software Developer, iOS Main Developer
  
-### Development Tools & Languages:
+### 사용 언어, 협업 툴:
 Xcode, Mantis, Trello, BitBucket, SourceTree
 
 Objective-C, C++, C#
  
-### Projects:
+### 프로젝트:
 유명 게임들 (LoL, CS, DoTA, Blizzard) 의 경기 결과 베팅 후
 얻은 포인트로 게임들 속의 아이템을 살 수 있는 모바일 앱 개발
 
@@ -118,15 +118,15 @@ Cocos2d-x 게임 개발 진행
  
 ## Simplatform
 
-### Role:
+### 직무:
 Senior Software Developer
  
-### Development Tools & Languages:
+### 사용 언어, 협업 툴:
 Xcode, Eclipse, Redmine, Jira, Git
 
 Objective-C, C ++, C#, Java, JavaScript
  
-### Projects:
+### 프로젝트:
 금융권 전자문서 e-Form 솔루션 R&D
 
 iOS, Android, Web 용 솔루션 유지보수 및 개발
@@ -138,15 +138,15 @@ iOS, Android, Web 용 솔루션 유지보수 및 개발
  
 ## Deoham Story
 
-### Role:
+### 직무:
 Senior Software Developer
  
-### Development Tools & Languages:
+### 사용 언어, 협업 툴:
 Xcode, Eclipse, Trello, BitBucket, SourceTree
 
 Objective-C, C ++, Java
  
-### Projects:
+### 프로젝트:
 HYUNDAI Auto Ever DH Genesis App Project
 
 딜러들의 고객 관리 앱, 매장용 자동차 카달로그 앱
@@ -163,17 +163,17 @@ iPad 와 iPhone 앱 개발
 
 ## NCer
 
-### Role:
+### 직무:
 Senior Software Developer, Core Framework Developer.
 [Hi Dokdo] App Main Developer.
  
-### Team work:
+### 업무 환경:
 Agile Software Development Environment (weekly release)
 
-### Collaboration Tools :
+### 협업 툴 :
 Jira, Trello, BitBucket, SourceTree, Jenkins
  
-### Projects:
+### 프로젝트:
 CJ-Educations 유아 교육용 인터렉티브 터치 게임 앱북 개발 
 Cocos2D-x 사용, iOS와 안드로이드용 패드 앱 개발
 
